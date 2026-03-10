@@ -19,24 +19,24 @@ The project demonstrates a basic end-to-end ML workflow including data preproces
 
 ## Project Structure
 
+```
 Student-Pass-Fail-Predictor
 │
 ├── app
-│ └── streamlit_app.py
+│   └── streamlit_app.py
 │
 ├── model
-│ ├── train_model.py
-│ ├── model.pkl
-│ ├── scaler.pkl
-│ └── feature_columns.pkl
+│   ├── train_model.py
+│   ├── model.pkl
+│   ├── scaler.pkl
+│   └── feature_columns.pkl
 │
 ├── images
-│ └── app_screenshot.png
+│   └── app_screenshot.png
 │
 ├── requirements.txt
 └── README.md
-
----
+```
 
 ## Dataset
 
