@@ -1,7 +1,0 @@
-streamlit
-pandas
-scikit-learn
-mysql-connector-python
-joblib
-motplotlib
-seaborn
